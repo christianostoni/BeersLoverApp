@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+//PRIMO COMMIT DA XCODE
 @main
 struct BeerLoversAppApp: App {
     var body: some Scene {
